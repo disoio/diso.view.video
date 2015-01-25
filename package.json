@@ -1,6 +1,6 @@
 {
   "name": "diso.view.video",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a view that plays a video",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/disoio/diso.view.video",
   "dependencies": {
-    "diso.view": "0.0.30",
+    "diso.view": "0.0.31",
     "jquery": "~2.1.3"
   },
   "devDependencies": {
